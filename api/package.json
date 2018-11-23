@@ -1,0 +1,10 @@
+{
+  "name": "PhotoUploader_NB",
+  "version": "1.0.0",
+  "description": "A simple photo upload tool",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "formidable": "1.2.1"
+  }
+}
